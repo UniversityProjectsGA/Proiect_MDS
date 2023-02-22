@@ -1,6 +1,6 @@
 # Proiect_MDS
  
-Proiect Metode Dezvoltare Software
+Proiect Metode Dezvoltare Software - Anul 3 Semestrul 2
 
 In aceste proiect am dezvoltat un mini-joc video folosind game engine-ul Unity. 
 
